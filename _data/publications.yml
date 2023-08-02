@@ -1,3 +1,38 @@
+title: Structures of the nitrogenase complex prepared under catalytic turnover conditions
+  journal: Science
+  date: 2022
+  authors: Rutledge HL, Cook BD, Nguyen HPM, Herzik MA Jr., Tezcan FA
+  equal_contribution:
+  image:
+  pmid: "35901182"
+  pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/35901182
+  pmcid: PMC9949965
+  pmcid_link: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc9949965/
+  biorxiv_preprint:
+  biorxiv_link:
+  pdb1: 7UT6
+  pdb2: 7UT7
+  pdb3: 7UT8
+  pdb4: 7UT9
+  emdb1: EMD-26756
+  emdb2: EMD-26757
+  emdb3: EMD-26758
+  emdb4: EMD-26759
+  emdb5: EMD-26760
+  emdb6: EMD-26761
+  emdb7: EMD-26762
+  emdb8: EMD-26763
+  emdb9: EMD-26764
+  lab: Herzik Lab
+  lab_link: https://herziklab.com/
+  second_lab: Tezcan Lab
+  second_lab_link: https://tezcan.ucsd.edu
+  third_lab:
+  third_lab_link:
+  abstract: "The enzyme nitrogenase couples adenosine triphosphate (ATP) hydrolysis to the multielectron reduction of atmospheric dinitrogen into ammonia. Despite extensive research, the mechanistic details of ATP-dependent energy transduction and dinitrogen reduction by nitrogenase are not well understood, requiring new strategies to monitor its structural dynamics during catalytic action. Here, we report cryo-electron microscopy structures of the nitrogenase complex prepared under enzymatic turnover conditions. We observe that asymmetry governs all aspects of the nitrogenase mechanism, including ATP hydrolysis, protein-protein interactions, and catalysis. Conformational changes near the catalytic iron-molybdenum cofactor are correlated with the nucleotide-hydrolysis state of the enzyme."
+
+
+
 - title: Manual Blot-and-Plunge Freezing of Biological Specimens for Single-Particle Cryogenic Electron Microscopy
   journal: Journal of Visualized Experiments
   date: 2022
@@ -16,7 +51,7 @@
   second_lab_link:
   third_lab:
   third_lab_link:
-  abstract: Imaging biological specimens with electrons for high-resolution structure determination by single-particle cryogenic electron microscopy (cryoEM) requires a thin layer of vitreous ice containing the biomolecules of interest. Despite numerous technological advances in recent years that have propelled single-particle cryoEM to the forefront of structural biology, the methods by which specimens are vitrified for high-resolution imaging often remain the rate-limiting step. Although numerous recent efforts have provided means to overcome hurdles frequently encountered during specimen vitrification, including the development of novel sample supports and innovative vitrification instrumentation, the traditional manually operated plunger remains a staple in the cryoEM community due to the low cost to purchase and ease of operation. Here, we provide detailed methods for using a standard, guillotine-style manually operated blot-and-plunge device for the vitrification of biological specimens for high-resolution imaging by single-particle cryoEM. Additionally, commonly encountered issues and troubleshooting recommendations for when a standard preparation fails to yield a suitable specimen are also described.
+  abstract: Imaging biological specimens with electrons for high-resolution structure determination by single-particle cryogenic electron microscopy (cryoEM) requires a thin layer of vitreous ice containing the biomolecules of interest. Despite numerous technological advances in recent years that have propelled single-particle cryoEM to the forefront of structural biology, the methods by which specimens are vitrified for high-resolution imaging often remain the rate-limiting step. Although numerous recent efforts have provided means to overcome hurdles frequently encountered during specimen vitrification, including the development of novel sample supports and innovative vitrification instrumentation, the traditional manually operated plunger remains a staple in the cryoEM community due to the low cost to purchase and ease of operation. Here, we provide detailed methods for using a standard, guillotine-style manually operated blot-and-plunge device for the vitrification of biological specimens for high-resolution imaging by single-particle cryoEM. Additionally, commonly encountered issues and troubleshooting recommendations for when a standard preparation fails to yield a suitable specimen are also described."
 
 - title: Cryo-EM model validation recommendations based on outcomes of the 2019 EMDataResource challenge
   journal: Nature Methods
@@ -66,13 +101,13 @@
   second_lab_link: https://www.lander-lab.com
   third_lab:
   third_lab_link:
-  abstract: Although the advent of direct electron detectors (DEDs) and software developments have enabled the routine use of single-particle cryogenic electron microscopy (cryo-EM) for structure determination of well-behaved specimens to high-resolution, there nonetheless remains a discrepancy between the resolutions attained for biological specimens and the information limits of modern transmission electron microscopes (TEMs). Instruments operating at 300 kV equipped with DEDs are the current paradigm for high-resolution single-particle cryo-EM, while 200 kV TEMs remain comparatively underutilized for purposes beyond sample screening. Here, we expand upon our prior work and demonstrate that one such 200 kV microscope, the Talos Arctica, equipped with a K2 DED is capable of determining structures of macromolecules to as high as ∼1.7 Å resolution. At this resolution, ordered water molecules are readily assigned and holes in aromatic residues can be clearly distinguished in the reconstructions. This work emphasizes the utility of 200 kV electrons for high-resolution single-particle cryo-EM and applications such as structure-based drug design.
+  abstract: Although the advent of direct electron detectors (DEDs) and software developments have enabled the routine use of single-particle cryogenic electron microscopy (cryo-EM) for structure determination of well-behaved specimens to high-resolution, there nonetheless remains a discrepancy between the resolutions attained for biological specimens and the information limits of modern transmission electron microscopes (TEMs). Instruments operating at 300 kV equipped with DEDs are the current paradigm for high-resolution single-particle cryo-EM, while 200 kV TEMs remain comparatively underutilized for purposes beyond sample screening. Here, we expand upon our prior work and demonstrate that one such 200 kV microscope, the Talos Arctica, equipped with a K2 DED is capable of determining structures of macromolecules to as high as ~1.7 Å resolution. At this resolution, ordered water molecules are readily assigned and holes in aromatic residues can be clearly distinguished in the reconstructions. This work emphasizes the utility of 200 kV electrons for high-resolution single-particle cryo-EM and applications such as structure-based drug design."
 
 
 - title: High-resolution structure determination of sub-100 kDa complexes using conventional cryo-EM
   journal: Nature Communications
   date: 2019
-  authors: Herzik MA. Jr.*, Wu M*, Lander GC.
+  authors: Herzik MA. Jr.*, Wu M*, Lander GC
   equal_contribution: "*These authors contributed equally"
   image:
   pmid: "30833564"
