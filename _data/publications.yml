@@ -1,3 +1,63 @@
+- title: Manual Blot-and-Plunge Freezing of Biological Specimens for Single-Particle Cryogenic Electron Microscopy
+  journal: Journal of Visualized Experiments
+  date: 2022
+  authors: Nguyen HMP*, McGuire KL*, Cook BD*, Herzik MA Jr.
+  equal_contribution: "*These authors contributed equally"
+  image:
+  pmid: "35188117"
+  pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/35188117
+  pmcid:  
+  pmcid_link: 
+  biorxiv_preprint: 
+  biorxiv_link:
+  pdb1: 
+  pdb2: 
+  pdb3: 
+  emdb1:
+  emdb2:
+  emdb3:
+  raw_data1:
+  raw_data2:
+  raw_data3: 
+  lab: Herzik Lab
+  lab_link: https://herziklab.com/
+  second_lab:
+  second_lab_link:
+  third_lab:
+  third_lab_link:
+  abstract: Imaging biological specimens with electrons for high-resolution structure determination by single-particle cryogenic electron microscopy (cryoEM) requires a thin layer of vitreous ice containing the biomolecules of interest. Despite numerous technological advances in recent years that have propelled single-particle cryoEM to the forefront of structural biology, the methods by which specimens are vitrified for high-resolution imaging often remain the rate-limiting step. Although numerous recent efforts have provided means to overcome hurdles frequently encountered during specimen vitrification, including the development of novel sample supports and innovative vitrification instrumentation, the traditional manually operated plunger remains a staple in the cryoEM community due to the low cost to purchase and ease of operation. Here, we provide detailed methods for using a standard, guillotine-style manually operated blot-and-plunge device for the vitrification of biological specimens for high-resolution imaging by single-particle cryoEM. Additionally, commonly encountered issues and troubleshooting recommendations for when a standard preparation fails to yield a suitable specimen are also described.
+
+
+- title: Sub-2 Angstrom resolution structure determination using single-particle cryo-EM at 200 keV
+  journal: Journal of Structural Biology: X
+  date: 2020
+  authors: Wu M, Lander GC, Herzik MA Jr.
+  equal_contribution: 
+  image:
+  pmid: "32647824"
+  pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/32647824
+  pmcid:  PMC7337053
+  pmcid_link: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7337053/
+  biorxiv_preprint: 
+  biorxiv_link:
+  pdb1: 6V20
+  pdb2: 6V21
+  pdb3: 
+  emdb1: EMD-21023
+  emdb2: EMD-21024
+  emdb3:
+  raw_data1: 10337
+  raw_data2: 10338
+  raw_data3: 
+  lab: Herzik Lab
+  lab_link: https://herziklab.com/
+  second_lab: Lander Lab
+  second_lab_link: https://www.lander-lab.com
+  third_lab:
+  third_lab_link:
+  abstract: Although the advent of direct electron detectors (DEDs) and software developments have enabled the routine use of single-particle cryogenic electron microscopy (cryo-EM) for structure determination of well-behaved specimens to high-resolution, there nonetheless remains a discrepancy between the resolutions attained for biological specimens and the information limits of modern transmission electron microscopes (TEMs). Instruments operating at 300 kV equipped with DEDs are the current paradigm for high-resolution single-particle cryo-EM, while 200 kV TEMs remain comparatively underutilized for purposes beyond sample screening. Here, we expand upon our prior work and demonstrate that one such 200 kV microscope, the Talos Arctica, equipped with a K2 DED is capable of determining structures of macromolecules to as high as ∼1.7 Å resolution. At this resolution, ordered water molecules are readily assigned and holes in aromatic residues can be clearly distinguished in the reconstructions. This work emphasizes the utility of 200 kV electrons for high-resolution single-particle cryo-EM and applications such as structure-based drug design.
+
+
 - title: High-resolution structure determination of sub-100 kDa complexes using conventional cryo-EM
   journal: Nature Communications
   date: 2019
@@ -20,7 +80,7 @@
   raw_data2: 10250
   raw_data3: 10252
   lab: Lander Lab
-  lab_link: http://www.lander-lab.com
+  lab_link: https://www.lander-lab.com
   second_lab:
   second_lab_link:
   third_lab:
