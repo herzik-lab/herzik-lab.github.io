@@ -51,6 +51,11 @@ layout: default
       {% if person.twitter %}
         <a href="{{person.twitter}}"> {{person.twitter}}</a> <br>
       {% endif %}
+      {% if person.website %}
+        <a href="{{person.website}}"> 
+          {{ person.website | replace: 'http://', '' | replace: 'https://', '' }}
+        </a> 
+      {% endif %}
       <br>
       <br>
       {% if person.description %}
