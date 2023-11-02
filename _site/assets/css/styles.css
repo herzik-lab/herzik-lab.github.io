@@ -9,7 +9,7 @@ html {
 
 body {
   font-family: 'Open Sans', sans-serif;
-  background-color: #f2f2f2;
+  background-color: #ffffff;
   min-height: 100vh;
   position: relative; }
 
@@ -56,7 +56,7 @@ a:hover {
   text-align: center; }
 
 .jumbotron {
-  background-color: #f2f2f2; }
+  background-color: #ffffff; }
 
 .member-profile {
   font-size: .9em; }
@@ -73,7 +73,7 @@ a:hover {
   padding-bottom: 1em; }
 
 footer {
-  background-color: #f2f2f2;
+  background-color: #ffffff;
   position: relative;
   bottom: 0;
   width: 100%;
@@ -81,10 +81,10 @@ footer {
   margin-top: 1em; }
 
 .jumbotron {
-  background-color: #f2f2f2; }
+  background-color: #ffffff; }
 
 footer {
-  background-color: #f2f2f2; }
+  background-color: #ffffff; }
 
 .footer-text {
   font-size: .8em;
