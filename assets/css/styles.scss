@@ -19,7 +19,23 @@ html {
   text-align: justify;
 }
 
+h1 {
+  font-weight: 700;
+  font-size: 42px;
+  -webkit-font-kerning: .5em;
+          font-kerning: .5em;
+  padding-bottom: 1em;
+  text-align: left;
+}
 
+h2 {
+  font-weight: 700;
+  font-size: 36px;
+  -webkit-font-kerning: .5em;
+          font-kerning: .5em;
+  padding-bottom: 1em;
+  text-align: left;
+}
 
 .page-title {
   padding-top: 1em;
