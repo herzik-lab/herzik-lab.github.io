@@ -17,7 +17,7 @@
   funding:
   email: mbachoch(at)ucsd.edu
   image: /assets/img/members/bachochin-max.sq.png
-  orcid: https://orcid.org/0000-0002-5777-3464
+  orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Bachochin+MJ%5BAuthor%5D
   twitter: 
   description:
@@ -93,6 +93,7 @@
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=foroughi+A%5BAuthor%5D
   twitter: 
+  website: https://arminforoughi.github.io
   description:
 
 - name: Sadie Giddings
