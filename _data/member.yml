@@ -10,6 +10,43 @@
   twitter: markherzik
   description: "Structural biologist perfecting his EM craft. Interested in the molecular underpinnings governing protein allostery and molecular transport."
 
+- name: Max Bachochin
+  position: Graduate Student
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: mbachoch(at)ucsd.edu
+  image: /assets/img/members/bachochin-max.sq.png
+  orcid: https://orcid.org/0000-0002-5777-3464
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Bachochin+MJ%5BAuthor%5D
+  twitter: 
+  description:
+
+- name: Ray Berkeley, Ph.D.
+  position: Staff Scientist
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: rberkele(at)ucsd.edu
+  image:
+  orcid: https://orcid.org/0000-0002-3567-1547
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Berkeley+RF%5BAuthor%5D
+  website: https://rayberkeley.com
+  twitter: @ray_berkeley
+  description:
+
+- name: Natalie Birouty
+  position: Undergraduate Researcher
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: nbirouty(at)ucsd.edu
+  image: /assets/img/members/birouty-natalie.sq.png
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Birouty+N%5BAuthor%5D
+  twitter: 
+  description:
+
 - name: Brian Cook, Ph.D.
   position: Postdoctoral Scholar
   program:
@@ -21,3 +58,127 @@
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Cook+BD%5BAuthor%5D
   twitter: 
   description:
+
+- name: Kelly McGuire, Ph.D.
+  position: Postdoctoral Scholar
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: klmcguire(at)ucsd.edu
+  image: /assets/img/members/mcguire-kelly.sq.png
+  orcid: 
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=McGuire+KL%5BAuthor%5D
+  twitter: 
+  description:
+
+- name: Suzanne Enos
+  position: Graduate Student
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: senos(at)ucsd.edu
+  image: /assets/img/members/enos-suzanne.sq.png
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=enos+SE%5BAuthor%5D
+  twitter: 
+  description:
+
+- name: Armin Foroughi
+  position: Data Scientist
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: arforoug(at)ucsd.edu
+  image: /assets/img/members/armin-foroughi.sq.png
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=foroughi+A%5BAuthor%5D
+  twitter: 
+  description:
+
+- name: Sadie Giddings
+  position: Undergraduate Researcher
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: sagiddings@ucsd.edu
+  image: /assets/img/members/giddings-sadie.sq.png
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Giddings+SA%5BAuthor%5D
+  twitter: 
+  description:
+
+- name: Newton Herzik
+  position: Lab Woofer
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email:
+  image: /assets/img/members/herzik-newton.sq.png
+  orcid:
+  pubmed: 
+  twitter: 
+  description:
+
+- name: Tiffany Ho
+  position: Undergraduate Researcher
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: tgho@ucsd.edu
+  image:
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ho+TG%5BAuthor%5D
+  twitter: 
+  description:
+
+- name: Yizhou (Charles) Li
+  position: Graduate Student
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: yil216(at)ucsd.edu
+  image: /assets/img/members/li-yizhou-charles.sq.png
+  orcid: 
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Li+Y%5BAuthor%5D
+  twitter: 
+  description:
+
+- name: Trevor Marshall
+  position: Undergraduate Researcher
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: tsmarshall@ucsd.edu
+  image:
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Marshall+TS%5BAuthor%5D
+  twitter: 
+  description:
+
+- name: Marc Morizono
+  position: Graduate Student
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: mmorizon(at)ucsd.edu
+  image: /assets/img/members/morizono-marc.sq.png
+  orcid: 
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Morizono+M%5BAuthor%5D
+  twitter: 
+  description:
+  
+- name: Sarah Narehood
+  position: Graduate Student
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: snarehood(at)ucsd.edu
+  image: /assets/img/members/narehood-sarah.sq.png
+  orcid: 
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
+  twitter: 
+  description:
+
+  
+
+  
