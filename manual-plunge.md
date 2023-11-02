@@ -18,7 +18,15 @@ layout: default
  </div>
 </div>
 
-<img class="img-responsive center-block" src="/assets/img/Plunger2.png" width="200" alt="EM">
+<div class="container">
+ <div class="row">
+   <div class="col-md-2">
+   </div>
+     <div class="col-md-8">
+      <img class="img-responsive center-block" src="/assets/img/Plunger2.png" width="200" alt="EM">
+      </div>
+ </div>
+</div>
 
 <div class="container">
  <div class="row">
