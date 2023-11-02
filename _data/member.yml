@@ -9,3 +9,15 @@
   pubmed: https://www.ncbi.nlm.nih.gov/pubmed/?term=Herzik%20MA%5BAuthor%5D&cauthor=true&cauthor_uid=28991891
   twitter: markherzik
   description: "Structural biologist perfecting his EM craft. Interested in the molecular underpinnings governing protein allostery and molecular transport."
+
+- name: Brian Cook, Ph.D.
+  position: Postdoctoral Scholar
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: bcook(at)ucsd.edu
+  image: /assets/img/members/cook-brian.sq.png
+  orcid: https://orcid.org/0000-0002-5777-3464
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Cook+BD%5BAuthor%5D
+  twitter: 
+  description:
