@@ -59,18 +59,6 @@
   twitter: 
   description:
 
-- name: Kelly McGuire, Ph.D.
-  position: Postdoctoral Scholar
-  program:
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: klmcguire(at)ucsd.edu
-  image: /assets/img/members/mcguire-kelly.sq.png
-  orcid: 
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=McGuire+KL%5BAuthor%5D
-  twitter: 
-  description:
-
 - name: Suzanne Enos
   position: Graduate Student
   program:
@@ -156,9 +144,21 @@
   twitter: 
   description:
 
+- name: Kelly McGuire, Ph.D.
+  position: Postdoctoral Scholar
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: klmcguire(at)ucsd.edu
+  image: /assets/img/members/mcguire-kelly.sq.png
+  orcid: 
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=McGuire+KL%5BAuthor%5D
+  twitter: 
+  description:
+
 - name: Marc Morizono
   position: Graduate Student
-  program:
+  program: 
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: mmorizon(at)ucsd.edu
@@ -181,5 +181,15 @@
   description:
 
   
-
+- name: Annapurna Saladi
+  position: Undergraduate
+  program: Bioinformatics
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: asaladi(at)ucsd.edu
+  image: 
+  orcid: 
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
+  twitter: 
+  description:
   
