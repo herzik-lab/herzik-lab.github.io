@@ -17,9 +17,10 @@
   funding:
   email: mbachoch(at)ucsd.edu
   image: /assets/img/members/bachochin-max.sq.png
+  hover_image: /assets/img/members/bachochin-max_h.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Bachochin+MJ%5BAuthor%5D
-  twitter: 
+  twitter:
   description:
 
 - name: Ray Berkeley, Ph.D.
@@ -44,7 +45,7 @@
   image: /assets/img/members/birouty-natalie.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Birouty+N%5BAuthor%5D
-  twitter: 
+  twitter:
   description:
 
 - name: Brian Cook, Ph.D.
@@ -56,7 +57,7 @@
   image: /assets/img/members/cook-brian.sq.png
   orcid: https://orcid.org/0000-0002-5777-3464
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Cook+BD%5BAuthor%5D
-  twitter: 
+  twitter:
   description:
 
 - name: Suzanne Enos
@@ -68,7 +69,7 @@
   image: /assets/img/members/enos-suzanne.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=enos+SE%5BAuthor%5D
-  twitter: 
+  twitter:
   description:
 
 - name: Armin Foroughi
@@ -80,8 +81,20 @@
   image: /assets/img/members/foroughi-armin.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=foroughi+A%5BAuthor%5D
-  twitter: 
+  twitter:
   website: https://arminforoughi.github.io
+  description:
+
+- name: Sadie Giddings
+  position: Undergraduate Researcher
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: sagiddings@ucsd.edu
+  image: /assets/img/members/giddings-sadie.sq.png
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Giddings+SA%5BAuthor%5D
+  twitter: 
   description:
 
 - name: Newton Herzik
@@ -92,8 +105,8 @@
   email:
   image: /assets/img/members/herzik-newton.sq.png
   orcid:
-  pubmed: 
-  twitter: 
+  pubmed:
+  twitter:
   description:
 
 - name: Tiffany Ho
@@ -105,7 +118,7 @@
   image: /assets/img/members/ho-tiffany.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ho+TG%5BAuthor%5D
-  twitter: 
+  twitter:
   description:
 
 - name: Yizhou (Charles) Li
@@ -115,9 +128,9 @@
   funding:
   email: yil216(at)ucsd.edu
   image: /assets/img/members/li-yizhou-charles.sq.png
-  orcid: 
+  orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Li+Y%5BAuthor%5D
-  twitter: 
+  twitter:
   description:
 
 - name: Trevor Marshall
@@ -129,7 +142,7 @@
   image: /assets/img/members/marshall-trevor.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Marshall+TS%5BAuthor%5D
-  twitter: 
+  twitter:
   description:
 
 - name: Kelly McGuire, Ph.D.
@@ -139,23 +152,23 @@
   funding:
   email: klmcguire(at)ucsd.edu
   image: /assets/img/members/mcguire-kelly.sq.png
-  orcid: 
+  orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=McGuire+KL%5BAuthor%5D
-  twitter: 
+  twitter:
   description:
 
 - name: Marc Morizono
   position: Graduate Student
-  program: 
+  program:
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: mmorizon(at)ucsd.edu
   image: /assets/img/members/morizono-marc.sq.png
-  orcid: 
+  orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Morizono+M%5BAuthor%5D
-  twitter: 
+  twitter:
   description:
-  
+
 - name: Sarah Narehood
   position: Graduate Student
   program:
@@ -163,12 +176,12 @@
   funding:
   email: snarehood(at)ucsd.edu
   image: /assets/img/members/narehood-sarah.sq.png
-  orcid: 
+  orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
-  twitter: 
+  twitter:
   description:
 
-  
+
 - name: Annapurna Saladi
   position: Undergraduate
   program: Bioinformatics
@@ -176,8 +189,8 @@
   funding:
   email: asaladi(at)ucsd.edu
   image: /assets/img/members/saladi-annapurna.sq.png
-  orcid: 
+  orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
-  twitter: 
+  twitter:
   description:
-  
+
