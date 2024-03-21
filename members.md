@@ -3,8 +3,6 @@ title: Members | Herzik Lab
 layout: default
 ---
 
-<div class="falling-image-container"></div>
-
 <div class="container">
   <div class="row">
     <div class="col-md-2">
@@ -18,6 +16,8 @@ layout: default
   </div>
 </div>
 
+
+
 {% for person in site.data.member %}
 <hr style="padding-top: 1em;">
 <div class="container member-profile" style="padding-bottom: 2em;">
@@ -26,11 +26,7 @@ layout: default
     </div>
     <div class="col-md-4" style="background-color: ;">
       {% if person.image %}
-        <div class="member-image-container">
-          <img src="{{ person.image }}" alt="{{ person.name }}" class="img-responsive default-image">
-          <img src="{{ person.hover_image }}" alt="{{ person.name }}" class="img-responsive hover-image">
-          <div class="falling-image"></div>
-        </div>
+        <img src="{{ person.image }}" class="img-responsive">
       {% endif %}
     </div>
     <div class="col-md-6">
@@ -56,9 +52,9 @@ layout: default
         <a href="{{person.twitter}}"> {{person.twitter}}</a> <br>
       {% endif %}
       {% if person.website %}
-        <a href="{{person.website}}">
+        <a href="{{person.website}}"> 
           {{ person.website | replace: 'http://', '' | replace: 'https://', '' }}
-        </a>
+        </a> 
       {% endif %}
       <br>
       <br>
