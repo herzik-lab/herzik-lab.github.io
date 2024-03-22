@@ -5,6 +5,7 @@
   funding:
   email: mherzik(at)ucsd.edu
   image: /assets/img/members/herzik-mark.sq.png
+  hover_image: /assets/img/members/herzik-mark_h.sq.png
   orcid: https://orcid.org/0000-0001-6653-6682
   pubmed: https://www.ncbi.nlm.nih.gov/pubmed/?term=Herzik%20MA%5BAuthor%5D&cauthor=true&cauthor_uid=28991891
   twitter: markherzik
@@ -30,6 +31,7 @@
   funding:
   email: rberkele(at)ucsd.edu
   image: /assets/img/members/berkeley-ray.sq.png
+  hover_image: /assets/img/members/berkeley-ray_h.sq.png
   orcid: https://orcid.org/0000-0002-3567-1547
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Berkeley+RF%5BAuthor%5D
   website: https://rayberkeley.com
@@ -43,6 +45,7 @@
   funding:
   email: nbirouty(at)ucsd.edu
   image: /assets/img/members/birouty-natalie.sq.png
+  hover_image: /assets/img/members/danse-baby.gif
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Birouty+N%5BAuthor%5D
   twitter:
@@ -55,6 +58,7 @@
   funding:
   email: bcook(at)ucsd.edu
   image: /assets/img/members/cook-brian.sq.png
+  hover_image: /assets/img/members/cook-brian_h.sq.png
   orcid: https://orcid.org/0000-0002-5777-3464
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Cook+BD%5BAuthor%5D
   twitter:
@@ -67,6 +71,7 @@
   funding:
   email: senos(at)ucsd.edu
   image: /assets/img/members/enos-suzanne.sq.png
+  hover_image: /assets/img/members/danse-baby.gif
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=enos+SE%5BAuthor%5D
   twitter:
@@ -79,22 +84,11 @@
   funding:
   email: arforoug(at)ucsd.edu
   image: /assets/img/members/foroughi-armin.sq.png
+  hover_image: /assets/img/members/danse-baby.gif
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=foroughi+A%5BAuthor%5D
   twitter:
   website: https://arminforoughi.github.io
-  description:
-
-- name: Sadie Giddings
-  position: Undergraduate Researcher
-  program:
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: sagiddings@ucsd.edu
-  image: /assets/img/members/giddings-sadie.sq.png
-  orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Giddings+SA%5BAuthor%5D
-  twitter: 
   description:
 
 - name: Newton Herzik
@@ -104,6 +98,7 @@
   funding:
   email:
   image: /assets/img/members/herzik-newton.sq.png
+  hover_image: /assets/img/members/danse-baby.gif
   orcid:
   pubmed:
   twitter:
@@ -116,6 +111,7 @@
   funding:
   email: tgho@ucsd.edu
   image: /assets/img/members/ho-tiffany.sq.png
+  hover_image: /assets/img/members/danse-baby.gif
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ho+TG%5BAuthor%5D
   twitter:
@@ -128,6 +124,7 @@
   funding:
   email: yil216(at)ucsd.edu
   image: /assets/img/members/li-yizhou-charles.sq.png
+  hover_image: /assets/img/members/danse-baby.gif
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Li+Y%5BAuthor%5D
   twitter:
@@ -140,6 +137,7 @@
   funding:
   email: tsmarshall@ucsd.edu
   image: /assets/img/members/marshall-trevor.sq.png
+  hover_image: /assets/img/members/danse-baby.gif
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Marshall+TS%5BAuthor%5D
   twitter:
@@ -152,6 +150,7 @@
   funding:
   email: klmcguire(at)ucsd.edu
   image: /assets/img/members/mcguire-kelly.sq.png
+  hover_image: /assets/img/members/danse-baby.gif
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=McGuire+KL%5BAuthor%5D
   twitter:
@@ -164,6 +163,7 @@
   funding:
   email: mmorizon(at)ucsd.edu
   image: /assets/img/members/morizono-marc.sq.png
+  hover_image: /assets/img/members/morizono-marc_h.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Morizono+M%5BAuthor%5D
   twitter:
@@ -176,6 +176,7 @@
   funding:
   email: snarehood(at)ucsd.edu
   image: /assets/img/members/narehood-sarah.sq.png
+  hover_image: /assets/img/members/narehood-sarah_h.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
   twitter:
