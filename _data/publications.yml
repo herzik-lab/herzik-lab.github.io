@@ -1,3 +1,25 @@
+- title: Machine learning approaches to cryoEM density modification differentially affect biomacromolecule and ligand density quality
+  journal: Frontiers in Molecular Biosciences
+  date: 2024
+  authors: Berkeley RF*, Cook BD*, Herzik MA Jr.*
+  equal_contribution: "*These authors contributed equally"
+  image: /assets/img/publications/frontiers_figure.png
+  pmid: "38698773"
+  pmid_link: https://pubmed.ncbi.nlm.nih.gov/38698773/
+  pmcid:
+  pmcid_link:
+  biorxiv_preprint:
+  biorxiv_link:
+  lab: Herzik Lab
+  lab_link: https://herziklab.com/
+  second_lab:
+  second_lab_link:
+  third_lab:
+  third_lab_link:
+  abstract: "The application of machine learning to cryogenic electron microscopy (cryoEM) data analysis has added a valuable set of tools to the cryoEM data processing pipeline. As these tools become more accessible and widely available, the implications of their use should be assessed. We noticed that machine learning map modification tools can have differential effects on cryoEM densities. In this perspective, we evaluate these effects to show that machine learning tools generally improve densities for biomacromolecules while generating unpredictable results for ligands. This unpredictable behavior manifests both in quantitative metrics of map quality and in qualitative investigations of modified maps. The results presented here highlight the power and potential of machine learning tools in cryoEM, while also illustrating some of the risks of their unexamined use.""
+
+
+
 - title: Structures of the nitrogenase complex prepared under catalytic turnover conditions
   journal: Science
   date: 2022
@@ -41,9 +63,9 @@
   image:
   pmid: "35188117"
   pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/35188117
-  pmcid:  
-  pmcid_link: 
-  biorxiv_preprint: 
+  pmcid:
+  pmcid_link:
+  biorxiv_preprint:
   biorxiv_link:
   lab: Herzik Lab
   lab_link: https://herziklab.com/
@@ -57,13 +79,13 @@
   journal: Nature Methods
   date: 2021
   authors: Lawson CL, Kryshtafovych A, Adams PD, Afonine PV, Baker ML, Barad BA, Bond P, Burnley T, Cao R, Cheng J, Chojnowski G, Cowtan K, Dill KA, DiMaio F, Farrell DP, Fraser JS, Herzik MA, Hoh SW, Hou J, Hung L, Igaev M, Joseph AP, Kihara D, Kumar D, Mittal S, Monastyrskyy B, Olek M, Palmer CM, Patwardhan A, Perez A, Pfab J, Pintilie GD, Richardson JS, Rosenthal PB, Sarkar D, Schäfer LU, Schmid MF, Schröder GF, Shekhar M, Si D, Singharoy A, Terashi G, Terwilliger TC, Vaiana A, Wang L, Wang Z, Wankowicz SA, Williams CJ, Winn M, Wu T, Yu X, Zhang K, Berman HM, Chiu W
-  equal_contribution: 
+  equal_contribution:
   image:
   pmid: "33542514"
   pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/33542514
   pmcid: PMC7864804
   pmcid_link: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7864804/
-  biorxiv_preprint: 
+  biorxiv_preprint:
   biorxiv_link:
   lab: Herzik Lab
   lab_link: https://herziklab.com/
@@ -78,23 +100,23 @@
   journal: "Journal of Structural Biology: X"
   date: 2020
   authors: Wu M, Lander GC, Herzik MA Jr.
-  equal_contribution: 
+  equal_contribution:
   image:
   pmid: "32647824"
   pmid_link: https://www.ncbi.nlm.nih.gov/pubmed/32647824
   pmcid:  PMC7337053
   pmcid_link: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7337053/
-  biorxiv_preprint: 
+  biorxiv_preprint:
   biorxiv_link:
   pdb1: 6V20
   pdb2: 6V21
-  pdb3: 
+  pdb3:
   emdb1: EMD-21023
   emdb2: EMD-21024
   emdb3:
   raw_data1: 10337
   raw_data2: 10338
-  raw_data3: 
+  raw_data3:
   lab: Herzik Lab
   lab_link: https://herziklab.com/
   second_lab: Lander Lab
