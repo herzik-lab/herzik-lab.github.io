@@ -16,8 +16,7 @@
   second_lab_link:
   third_lab:
   third_lab_link:
-  abstract: "The application of machine learning to cryogenic electron microscopy (cryoEM) data analysis has added a valuable set of tools to the cryoEM data processing pipeline. As these tools become more accessible and widely available, the implications of their use should be assessed. We noticed that machine learning map modification tools can have differential effects on cryoEM densities. In this perspective, we evaluate these effects to show that machine learning tools generally improve densities for biomacromolecules while generating unpredictable results for ligands. This unpredictable behavior manifests both in quantitative metrics of map quality and in qualitative investigations of modified maps. The results presented here highlight the power and potential of machine learning tools in cryoEM, while also illustrating some of the risks of their unexamined use.""
-
+  abstract: "The application of machine learning to cryogenic electron microscopy (cryoEM) data analysis has added a valuable set of tools to the cryoEM data processing pipeline. As these tools become more accessible and widely available, the implications of their use should be assessed. We noticed that machine learning map modification tools can have differential effects on cryoEM densities. In this perspective, we evaluate these effects to show that machine learning tools generally improve densities for biomacromolecules while generating unpredictable results for ligands. This unpredictable behavior manifests both in quantitative metrics of map quality and in qualitative investigations of modified maps. The results presented here highlight the power and potential of machine learning tools in cryoEM, while also illustrating some of the risks of their unexamined use."
 
 
 - title: Structures of the nitrogenase complex prepared under catalytic turnover conditions
