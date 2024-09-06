@@ -64,6 +64,20 @@
   twitter:
   description:
 
+- name: Peter Dukakis
+  position: Undergraduate Researcher
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: pdukakis(at)ucsd.edu
+  image: /assets/img/members/dukakis-peter.sq.png
+  hover_image:
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Dukakis+P%5BAuthor%5D
+  twitter:
+  description:
+
+
 - name: Suzanne Enos
   position: Graduate Student
   program:
