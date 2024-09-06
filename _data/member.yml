@@ -98,7 +98,7 @@
   funding:
   email: arforoug(at)ucsd.edu
   image: /assets/img/members/foroughi-armin.sq.png
-  hover_image: /assets/img/members/danse-baby.gif
+  hover_image:
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=foroughi+A%5BAuthor%5D
   twitter:
