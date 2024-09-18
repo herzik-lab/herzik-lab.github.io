@@ -150,6 +150,19 @@
   description:
 
 
+- name: Tiffany Safar
+  position: Undergraduate Researcher
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: tsafar(at)ucsd.edu
+  image: /assets/img/members/safar-tiffany.sq.png
+  hover_image: # /assets/img/members/safar-tiffany_h.sq.png
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Safar+T%5BAuthor%5D
+  twitter:
+  description:
+
 - name: Newton Herzik
   position: Lab Woofer
   program:
