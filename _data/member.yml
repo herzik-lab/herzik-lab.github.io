@@ -11,18 +11,33 @@
   twitter: markherzik
   description: "Structural biologist perfecting his EM craft. Interested in the molecular underpinnings governing protein allostery and molecular transport."
 
-- name: Max Bachochin
-  position: Graduate Student
+- name: Brian Cook, Ph.D.
+  position: Postdoctoral Scholar
   program:
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
-  email: mbachoch(at)ucsd.edu
-  image: /assets/img/members/bachochin-max.sq.png
-  hover_image: /assets/img/members/bachochin-max_h.sq.png
-  orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Bachochin+MJ%5BAuthor%5D
+  email: bcook(at)ucsd.edu
+  image: /assets/img/members/cook-brian.sq.png
+  hover_image: /assets/img/members/cook-brian_h.sq.png
+  orcid: https://orcid.org/0000-0002-5777-3464
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Cook+BD%5BAuthor%5D
   twitter:
   description:
+
+
+- name: Kelly McGuire, Ph.D.
+  position: Postdoctoral Scholar
+  program:
+  department: Department of Chemistry and Biochemistry at UCSD
+  funding:
+  email: klmcguire(at)ucsd.edu
+  image: /assets/img/members/mcguire-kelly.sq.png
+  hover_image: /assets/img/members/mcguire-kelly_h.sq.png
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=McGuire+KL%5BAuthor%5D
+  twitter:
+  description:
+
 
 - name: Ray Berkeley, Ph.D.
   position: Staff Scientist
@@ -38,42 +53,44 @@
   twitter: ray_berkeley
   description:
 
-- name: Natalie Birouty
-  position: Undergraduate Researcher
+
+- name: Max Bachochin
+  position: Graduate Student
   program:
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
-  email: nbirouty(at)ucsd.edu
-  image: /assets/img/members/birouty-natalie.sq.png
-  hover_image: /assets/img/members/birouty-natalie_h.sq.png
+  email: mbachoch(at)ucsd.edu
+  image: /assets/img/members/bachochin-max.sq.png
+  hover_image: /assets/img/members/bachochin-max_h.sq.png
   orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Birouty+N%5BAuthor%5D
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Bachochin+MJ%5BAuthor%5D
   twitter:
   description:
 
-- name: Brian Cook, Ph.D.
-  position: Postdoctoral Scholar
+- name: Marc Morizono
+  position: Graduate Student
   program:
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
-  email: bcook(at)ucsd.edu
-  image: /assets/img/members/cook-brian.sq.png
-  hover_image: /assets/img/members/cook-brian_h.sq.png
-  orcid: https://orcid.org/0000-0002-5777-3464
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Cook+BD%5BAuthor%5D
+  email: mmorizon(at)ucsd.edu
+  image: /assets/img/members/morizono-marc.sq.png
+  hover_image: /assets/img/members/morizono-marc_h.sq.png
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Morizono+M%5BAuthor%5D
   twitter:
   description:
 
-- name: Peter Dukakis
-  position: Undergraduate Researcher
+
+- name: Sarah Narehood
+  position: Graduate Student
   program:
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
-  email: pdukakis(at)ucsd.edu
-  image: /assets/img/members/dukakis-peter.sq.png
-  hover_image: /assets/img/members/dukakis-peter_h.sq.png
+  email: snarehood(at)ucsd.edu
+  image: /assets/img/members/narehood-sarah.sq.png
+  hover_image: /assets/img/members/narehood-sarah_h.sq.png
   orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Dukakis+P%5BAuthor%5D
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
   twitter:
   description:
 
@@ -91,45 +108,7 @@
   twitter:
   description:
 
-- name: Armin Foroughi
-  position: Data Scientist
-  program:
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: arforoug(at)ucsd.edu
-  image: /assets/img/members/foroughi-armin.sq.png
-  hover_image:
-  orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=foroughi+A%5BAuthor%5D
-  twitter:
-  website: https://arminforoughi.github.io
-  description:
 
-- name: Newton Herzik
-  position: Lab Woofer
-  program:
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email:
-  image: /assets/img/members/herzik-newton.sq.png
-  hover_image: /assets/img/members/herzik-newton_h.sq.png
-  orcid:
-  pubmed:
-  twitter:
-  description:
-
-- name: Tiffany Ho
-  position: Undergraduate Researcher
-  program:
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: tgho@ucsd.edu
-  image: /assets/img/members/ho-tiffany.sq.png
-  hover_image: /assets/img/members/ho-tiffany_h.sq.png
-  orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ho+TG%5BAuthor%5D
-  twitter:
-  description:
 
 - name: Yizhou (Charles) Li
   position: Graduate Student
@@ -157,55 +136,85 @@
   twitter:
   description:
 
-- name: Kelly McGuire, Ph.D.
-  position: Postdoctoral Scholar
+- name: Peter Dukakis
+  position: Undergraduate Researcher
   program:
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
-  email: klmcguire(at)ucsd.edu
-  image: /assets/img/members/mcguire-kelly.sq.png
-  hover_image: /assets/img/members/mcguire-kelly_h.sq.png
+  email: pdukakis(at)ucsd.edu
+  image: /assets/img/members/dukakis-peter.sq.png
+  hover_image: /assets/img/members/dukakis-peter_h.sq.png
   orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=McGuire+KL%5BAuthor%5D
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Dukakis+P%5BAuthor%5D
   twitter:
   description:
 
-- name: Marc Morizono
-  position: Graduate Student
+
+- name: Newton Herzik
+  position: Lab Woofer
   program:
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
-  email: mmorizon(at)ucsd.edu
-  image: /assets/img/members/morizono-marc.sq.png
-  hover_image: /assets/img/members/morizono-marc_h.sq.png
+  email:
+  image: /assets/img/members/herzik-newton.sq.png
+  hover_image: /assets/img/members/herzik-newton_h.sq.png
   orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Morizono+M%5BAuthor%5D
+  pubmed:
   twitter:
   description:
 
-- name: Sarah Narehood
-  position: Graduate Student
-  program:
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: snarehood(at)ucsd.edu
-  image: /assets/img/members/narehood-sarah.sq.png
-  hover_image: /assets/img/members/narehood-sarah_h.sq.png
-  orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
-  twitter:
-  description:
+# - name: Natalie Birouty
+#   position: Undergraduate Researcher
+#   program:
+#   department: Department of Chemistry and Biochemistry at UCSD
+#   funding:
+#   email: nbirouty(at)ucsd.edu
+#   image: /assets/img/members/birouty-natalie.sq.png
+#   hover_image: /assets/img/members/birouty-natalie_h.sq.png
+#   orcid:
+#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Birouty+N%5BAuthor%5D
+#   twitter:
+#   description:
 
 
-- name: Annapurna Saladi
-  position: Undergraduate
-  program: Bioinformatics
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: asaladi(at)ucsd.edu
-  image: /assets/img/members/saladi-annapurna.sq.png
-  orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
-  twitter:
-  description:
+# - name: Armin Foroughi
+#   position: Data Scientist
+#   program:
+#   department: Department of Chemistry and Biochemistry at UCSD
+#   funding:
+#   email: arforoug(at)ucsd.edu
+#   image: /assets/img/members/foroughi-armin.sq.png
+#   hover_image:
+#   orcid:
+#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=foroughi+A%5BAuthor%5D
+#   twitter:
+#   website: https://arminforoughi.github.io
+#   description:
+
+
+
+# - name: Tiffany Ho
+#   position: Undergraduate Researcher
+#   program:
+#   department: Department of Chemistry and Biochemistry at UCSD
+#   funding:
+#   email: tgho@ucsd.edu
+#   image: /assets/img/members/ho-tiffany.sq.png
+#   hover_image: /assets/img/members/ho-tiffany_h.sq.png
+#   orcid:
+#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ho+TG%5BAuthor%5D
+#   twitter:
+#   description:
+
+# - name: Annapurna Saladi
+#   position: Undergraduate
+#   program: Bioinformatics
+#   department: Department of Chemistry and Biochemistry at UCSD
+#   funding:
+#   email: asaladi(at)ucsd.edu
+#   image: /assets/img/members/saladi-annapurna.sq.png
+#   orcid:
+#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
+#   twitter:
+#   description:
 
