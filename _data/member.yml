@@ -67,6 +67,18 @@
   twitter:
   description:
 
+- name: Daniel Ji
+  position: Undergraduate Researcher
+  program: 
+  department: Department of Chemistry and Biochemistry
+  funding:
+  email: daji(at)ucsd.edu
+  image:
+  hover_image:
+  pubmed:
+  twitter:
+  description:
+
 - name: Marc Morizono
   position: Graduate Student
   program:
@@ -157,7 +169,7 @@
   funding:
   email: tsafar(at)ucsd.edu
   image: /assets/img/members/safar-tiffany.sq.png
-  hover_image: # /assets/img/members/safar-tiffany_h.sq.png
+  hover_image: /assets/img/members/safar-tiffany_h.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Safar+T%5BAuthor%5D
   twitter:
