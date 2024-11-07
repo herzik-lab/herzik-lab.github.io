@@ -56,7 +56,7 @@
 
 - name: Max Bachochin
   position: Graduate Student
-  program:
+  program: Biochemistry and Molecular Biophysics
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: mbachoch(at)ucsd.edu
@@ -69,19 +69,20 @@
 
 - name: Daniel Ji
   position: Undergraduate Researcher
-  program: 
-  department: Department of Chemistry and Biochemistry
+  program: Computer Science
+  department: Computer Science and Engineering
   funding:
   email: daji(at)ucsd.edu
-  image:
-  hover_image:
-  pubmed:
+  image: /assets/img/members/ji-daniel.sq.png
+  hover_image: /assets/img/members/ji-daniel_h.sq.png
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ji+Daniel%5BAuthor%5D
   twitter:
+  github: https://github.com/daniel-ji
   description:
 
 - name: Marc Morizono
   position: Graduate Student
-  program:
+  program: Biochemistry and Molecular Biophysics
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: mmorizon(at)ucsd.edu
@@ -95,7 +96,7 @@
 
 - name: Sarah Narehood
   position: Graduate Student
-  program:
+  program: Biochemistry and Molecular Biophysics
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: snarehood(at)ucsd.edu
@@ -109,7 +110,7 @@
 
 - name: Suzanne Enos
   position: Graduate Student
-  program:
+  program: Biochemistry and Molecular Biophysics
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: senos(at)ucsd.edu
@@ -124,7 +125,7 @@
 
 - name: Yizhou (Charles) Li
   position: Graduate Student
-  program:
+  program: Biochemistry and Molecular Biophysics
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: yil216(at)ucsd.edu
