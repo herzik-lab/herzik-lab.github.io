@@ -50,7 +50,7 @@
   orcid: https://orcid.org/0000-0002-3567-1547
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Berkeley+RF%5BAuthor%5D
   website: https://rayberkeley.com
-  twitter: ray_berkeley
+  twitter: https://twitter.com/ray_berkeley
   description:
 
 
@@ -65,19 +65,6 @@
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Bachochin+MJ%5BAuthor%5D
   twitter:
-  description:
-
-- name: Daniel Ji
-  position: Undergraduate Researcher
-  program: Computer Science
-  department: Computer Science and Engineering
-  funding:
-  email: daji(at)ucsd.edu
-  image: /assets/img/members/ji-daniel.sq.png
-  hover_image: /assets/img/members/ji-daniel_h.sq.png
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ji+Daniel%5BAuthor%5D
-  twitter:
-  github: https://github.com/daniel-ji
   description:
 
 - name: Marc Morizono
@@ -176,6 +163,19 @@
   twitter:
   description:
 
+ - name: Daniel Ji
+   position: Undergraduate Researcher
+   program: Computer Science
+   department: Computer Science and Engineering
+   funding:
+   email: daji(at)ucsd.edu
+   image: /assets/img/members/ji-daniel.sq.png
+   hover_image: /assets/img/members/ji-daniel_h.sq.png
+   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ji+Daniel%5BAuthor%5D
+   twitter:
+   github: https://github.com/daniel-ji
+   description:
+   
 - name: Newton Herzik
   position: Lab Woofer
   program:
