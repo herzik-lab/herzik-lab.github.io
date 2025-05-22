@@ -39,19 +39,19 @@
   description:
 
 
-- name: Ray Berkeley, Ph.D.
-  position: Staff Scientist
-  program:
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: rberkele(at)ucsd.edu
-  image: /assets/img/members/berkeley-ray.sq.png
-  hover_image: /assets/img/members/berkeley-ray_h.sq.png
-  orcid: https://orcid.org/0000-0002-3567-1547
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Berkeley+RF%5BAuthor%5D
-  website: https://rayberkeley.com
-  twitter: https://twitter.com/ray_berkeley
-  description:
+# - name: Ray Berkeley, Ph.D.
+#   position: Staff Scientist
+#   program:
+#   department: Department of Chemistry and Biochemistry at UCSD
+#   funding:
+#   email: rberkele(at)ucsd.edu
+#   image: /assets/img/members/berkeley-ray.sq.png
+#   hover_image: /assets/img/members/berkeley-ray_h.sq.png
+#   orcid: https://orcid.org/0000-0002-3567-1547
+#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Berkeley+RF%5BAuthor%5D
+#   website: https://rayberkeley.com
+#   twitter: https://twitter.com/ray_berkeley
+#   description:
 
 
 - name: Max Bachochin
@@ -123,18 +123,18 @@
   twitter:
   description:
 
-- name: Trevor Marshall
-  position: Undergraduate Researcher
-  program:
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: tsmarshall@ucsd.edu
-  image: /assets/img/members/marshall-trevor.sq.png
-  hover_image: /assets/img/members/marshall-trevor_h.sq.png
-  orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Marshall+TS%5BAuthor%5D
-  twitter:
-  description:
+# - name: Trevor Marshall
+#   position: Undergraduate Researcher
+#   program:
+#   department: Department of Chemistry and Biochemistry at UCSD
+#   funding:
+#   email: tsmarshall@ucsd.edu
+#   image: /assets/img/members/marshall-trevor.sq.png
+#   hover_image: /assets/img/members/marshall-trevor_h.sq.png
+#   orcid:
+#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Marshall+TS%5BAuthor%5D
+#   twitter:
+#   description:
 
 - name: Peter Dukakis
   position: Undergraduate Researcher
@@ -150,16 +150,42 @@
   description:
 
 
-- name: Tiffany Safar
+# - name: Tiffany Safar
+#   position: Undergraduate Researcher
+#   program:
+#   department: Department of Chemistry and Biochemistry at UCSD
+#   funding:
+#   email: tsafar(at)ucsd.edu
+#   image: /assets/img/members/safar-tiffany.sq.png
+#   hover_image: /assets/img/members/safar-tiffany_h.sq.png
+#   orcid:
+#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Safar+T%5BAuthor%5D
+#   twitter:
+#   description:
+
+- name: Julia Nguyen
   position: Undergraduate Researcher
+  program: Biology with Specialization in Bioinformatics
+  department: Biology
+  funding:
+  email: jan018(at)ucsd.edu
+  image: /assets/img/members/nguyen-julia.sq.png
+  hover_image: /assets/img/members/nguyen-julia_h.sq.png
+  pubmed:
+  twitter:
+  github:
+  description:
+
+- name: Newton Herzik
+  position: Lab Woofer
   program:
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
-  email: tsafar(at)ucsd.edu
-  image: /assets/img/members/safar-tiffany.sq.png
-  hover_image: /assets/img/members/safar-tiffany_h.sq.png
+  email:
+  image: /assets/img/members/herzik-newton.sq.png
+  hover_image: /assets/img/members/herzik-newton_h.sq.png
   orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Safar+T%5BAuthor%5D
+  pubmed:
   twitter:
   description:
 
@@ -174,19 +200,6 @@
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ji+Daniel%5BAuthor%5D
   twitter:
   github: https://github.com/daniel-ji
-  description:
-   
-- name: Newton Herzik
-  position: Lab Woofer
-  program:
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email:
-  image: /assets/img/members/herzik-newton.sq.png
-  hover_image: /assets/img/members/herzik-newton_h.sq.png
-  orcid:
-  pubmed:
-  twitter:
   description:
 
 # - name: Natalie Birouty
