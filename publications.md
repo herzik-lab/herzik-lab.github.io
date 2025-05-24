@@ -76,21 +76,21 @@ layout: default
             <p><strong>Additional Links</strong></p>
                 <ul style="color: gray">
                     {% if publication.pdb %}
-                        {if publication.pdb != "none"}
+                        {% if publication.pdb != "none" %}
                         <li>PDB: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb}}">{{publication.pdb}}</a></li>
                         {% endif %}
                     {% else %}
                         <li>PDBs: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb1}}">{{publication.pdb1}}</a> <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb2}}">{{publication.pdb2}}</a> <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb3}}">{{publication.pdb3}}</a> <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb4}}">{{publication.pdb4}}</a> <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb5}}">{{publication.pdb5}}</a> <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb6}}">{{publication.pdb6}}</a></li>
                     {% endif %}
                     {% if publication.emd %}
-                        {if publication.emd != "none"}
+                        {% if publication.emd != "none" %}
                         <li>EMDB: <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb}}">{{publication.emdb}}</a></li>
                         {% endif %}
                     {% else %}
                         <li>EMDBs: <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb1}}">{{publication.emdb1}}</a> <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb2}}">{{publication.emdb2}}</a> <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb3}}">{{publication.emdb3}}</a> <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb4}}">{{publication.emdb4}}</a> <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb5}}">{{publication.emdb5}}</a> <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb6}}">{{publication.emdb6}}</a> <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb7}}">{{publication.emdb7}}</a> <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb8}}">{{publication.emdb8}}</a> <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb9}}">{{publication.emdb9}}</a> <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb10}}">{{publication.emdb10}}</a></li>
                     {% endif %}
                     {% if publication.raw_data %}
-                        {if publication.raw_data != "none"}
+                        {% if publication.raw_data != "none" %}
                         <li>Raw Data: <a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/entry/{{publication.raw_data}}">EMPIAR-{{publication.raw_data1}}</a></li>
                         {% endif %}
                     {% else %}
