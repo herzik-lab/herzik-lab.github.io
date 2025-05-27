@@ -1,7 +1,8 @@
 - title: Preparation of oxygen-sensitive proteins for high-resolution cryoEM structure determination using blot-free vitrification
   journal: Nature Communications
   date: 2025
-  authors: Cook BD, Narehood SM, McGuire KL, Li Y, Tezcan FA, Herzik MA Jr.
+  authors: Cook BD*, Narehood SM*, McGuire KL*, Li Y, Tezcan FA, Herzik MA Jr.
+  equal_contribution: "*These authors contributed equally"
   image: /assets/img/publications/o2sensitive_cryoem.png
   pmid: "39091810"
   pmid_link: https://pubmed.ncbi.nlm.nih.gov/39091810/
