@@ -4,8 +4,8 @@
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: mherzik(at)ucsd.edu
-  image: /assets/img/members/herzik-mark.sq.png
-  hover_image: /assets/img/members/herzik-mark_h.sq.png
+  image: /assets/img/members/herzik-mark.sq.jpg
+  hover_image: /assets/img/members/herzik-mark_h.sq.jpg
   orcid: https://orcid.org/0000-0001-6653-6682
   pubmed: https://www.ncbi.nlm.nih.gov/pubmed/?term=Herzik%20MA%5BAuthor%5D&cauthor=true&cauthor_uid=28991891
   twitter:
@@ -17,8 +17,8 @@
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: bcook(at)ucsd.edu
-  image: /assets/img/members/cook-brian.sq.png
-  hover_image: /assets/img/members/cook-brian_h.sq.png
+  image: /assets/img/members/cook-brian.sq.jpg
+  hover_image: /assets/img/members/cook-brian_h.sq.jpg
   orcid: https://orcid.org/0000-0002-5777-3464
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Cook+BD%5BAuthor%5D
   twitter:
@@ -31,7 +31,7 @@
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: klmcguire(at)ucsd.edu
-  image: /assets/img/members/mcguire-kelly.sq.png
+  image: /assets/img/members/mcguire-kelly.sq.jpg
   hover_image: /assets/img/members/mcguire-kelly_h.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=McGuire+KL%5BAuthor%5D
@@ -60,7 +60,7 @@
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: mbachoch(at)ucsd.edu
-  image: /assets/img/members/bachochin-max.sq.png
+  image: /assets/img/members/bachochin-max.sq.jpg
   hover_image: /assets/img/members/bachochin-max_h.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Bachochin+MJ%5BAuthor%5D
@@ -73,8 +73,8 @@
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: mmorizon(at)ucsd.edu
-  image: /assets/img/members/morizono-marc.sq.png
-  hover_image: /assets/img/members/morizono-marc_h.sq.png
+  image: /assets/img/members/morizono-marc.sq.jpg
+  hover_image: /assets/img/members/morizono-marc_h.sq.jpg
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Morizono+M%5BAuthor%5D
   twitter:
@@ -87,8 +87,8 @@
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: snarehood(at)ucsd.edu
-  image: /assets/img/members/narehood-sarah.sq.png
-  hover_image: /assets/img/members/narehood-sarah_h.sq.png
+  image: /assets/img/members/narehood-sarah.sq.jpg
+  hover_image: /assets/img/members/narehood-sarah_h.sq.jpg
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
   twitter:
@@ -101,7 +101,7 @@
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: senos(at)ucsd.edu
-  image: /assets/img/members/enos-suzanne.sq.png
+  image: /assets/img/members/enos-suzanne.sq.jpg
   hover_image: /assets/img/members/enos-suzanne_h.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=enos+SE%5BAuthor%5D
@@ -116,8 +116,8 @@
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: yil216(at)ucsd.edu
-  image: /assets/img/members/li-yizhou-charles.sq.png
-  hover_image: /assets/img/members/li-yizhou-charles_h.sq.png
+  image: /assets/img/members/li-yizhou-charles.sq.jpg
+  hover_image: /assets/img/members/li-yizhou-charles_h.sq.jpg
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Li+Y%5BAuthor%5D
   twitter:
@@ -142,7 +142,7 @@
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email: pdukakis(at)ucsd.edu
-  image: /assets/img/members/dukakis-peter.sq.png
+  image: /assets/img/members/dukakis-peter.sq.jpg
   hover_image: /assets/img/members/dukakis-peter_h.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Dukakis+P%5BAuthor%5D
@@ -169,8 +169,8 @@
   department: Biology
   funding:
   email: jan018(at)ucsd.edu
-  image: /assets/img/members/nguyen-julia.sq.png
-  hover_image: /assets/img/members/nguyen-julia_h.sq.png
+  image: /assets/img/members/nguyen-julia.sq.jpg
+  hover_image: /assets/img/members/nguyen-julia_h.sq.jpg
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Nguyen+J%5BAuthor%5D
   twitter:
   github:
@@ -182,7 +182,7 @@
   department: Department of Chemistry and Biochemistry at UCSD
   funding:
   email:
-  image: /assets/img/members/herzik-newton.sq.png
+  image: /assets/img/members/herzik-newton.sq.jpg
   hover_image: /assets/img/members/herzik-newton_h.sq.png
   orcid:
   pubmed:
@@ -195,8 +195,8 @@
   department: Computer Science and Engineering
   funding:
   email: daji(at)ucsd.edu
-  image: /assets/img/members/ji-daniel.sq.png
-  hover_image: /assets/img/members/ji-daniel_h.sq.png
+  image: /assets/img/members/ji-daniel.sq.jpg
+  hover_image: /assets/img/members/ji-daniel_h.sq.jpg
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ji+Daniel%5BAuthor%5D
   twitter:
   github: https://github.com/daniel-ji
