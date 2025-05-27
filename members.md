@@ -29,7 +29,7 @@ layout: default
         <div class="member-image-container">
           <img src="{{ person.image }}" alt="{{ person.name }}" class="img-responsive default-image">
           <img src="{{ person.hover_image }}" alt="{{ person.name }}" class="img-responsive hover-image">
-          <div class="falling-image"></div>
+          <!-- <div class="falling-image"></div> -->
         </div>
       {% endif %}
     </div>
