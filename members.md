@@ -71,3 +71,5 @@ layout: default
   </div>
 </div>
 {% endfor %}
+
+[Lab Alumni &rarr;]({{ '/alumni/' | relative_url }})<br>
