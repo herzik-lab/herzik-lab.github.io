@@ -76,9 +76,9 @@ layout: default
   <div class="row">
     <div class="col-md-2">
     </div>
-    <div class="col-md-8">
+    <div class="col-md-8" style="text-align: center;">
       <hr style="margin-bottom: 2em;">
-      <p style="font-size: 4em; font-weight: bold;">
+      <p style="font-size: 2.5em; font-weight: bold;">
         <a href="{{ '/alumni/' | relative_url }}">Lab Alumni</a>
       </p>
     </div>
