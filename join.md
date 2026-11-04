@@ -7,7 +7,7 @@ layout: join
 The Herzik Lab is always interested in welcoming curious, motivated, and innovative scientists who share our enthusiasm for understanding complex biological systems. Our research spans integrative structural biology, cryogenic electron microscopy technology development, mitochondrial proteostasis, computational biology, and therapeutic discovery. We welcome applicants from all backgrounds and scientific disciplines and are committed to maintaining a supportive, inclusive, and collaborative laboratory environment that promotes scientific creativity, professional development, and individual success.
 <br>
 <br>
-## Postdoctoral Fellows
+<h2 class="h5 mt-4 mb-3">Postdoctoral Fellows</h2>
 
 Inquiries about postdoctoral research opportunities should be directed to Dr. Herzik. We welcome applications from scientists with backgrounds in structural biology, biochemistry, biophysics, molecular biology, computational biology, and related disciplines. Prior experience in cryoEM is welcomed but not required, particularly for candidates interested in developing complementary expertise.
 
@@ -18,7 +18,7 @@ Prospective fellows are encouraged to reach out with a curriculum vitae, a brief
 Additional information about postdoctoral training and professional development is available through [MD Anderson's Postdoctoral Training Program](https://www.mdanderson.org/education-training/research-training/postdoctoral-training.html).
 <br>
 <br>
-## Research Staff and Scientists
+<h2 class="h5 mt-4 mb-3">Research Staff and Scientists</h2>
 
 Our laboratory also welcomes inquiries from motivated research professionals interested in contributing to our interdisciplinary research program. Research staff play an essential role in advancing our biological investigations, developing innovative experimental methodologies, and maintaining the laboratory's scientific capabilities.
 
