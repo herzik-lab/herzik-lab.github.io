@@ -72,4 +72,17 @@ layout: default
 </div>
 {% endfor %}
 
-[Lab Alumni &rarr;]({{ '/alumni/' | relative_url }})<br>
+<div class="container" style="margin-top: 3em; margin-bottom: 6em;">
+  <div class="row">
+    <div class="col-md-2">
+    </div>
+    <div class="col-md-8">
+      <hr style="margin-bottom: 2em;">
+      <p style="font-size: 1.1em;">
+        <a href="{{ '/alumni/' | relative_url }}">Lab Alumni &rarr;</a>
+      </p>
+    </div>
+    <div class="col-md-2">
+    </div>
+  </div>
+</div>
