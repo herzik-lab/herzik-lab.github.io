@@ -11,11 +11,8 @@ permalink: /alumni/
     <div class="col-md-2">
     </div>
     <div class="col-md-8">
-      <h1 class="page-title">Herzik Lab Members</h1>
-      <p>The Herzik lab welcomes people of any race, religion, national origin, gender identity, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or ability.</p>
-    </div>
-    <div class="col-md-2">
-    </div>
+      <h1 class="page-title">Herzik Alumni</h1>
+    
   </div>
 </div>
 
