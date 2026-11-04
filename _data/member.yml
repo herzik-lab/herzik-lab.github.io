@@ -1,96 +1,26 @@
 - name: Mark Herzik, Ph.D.
   position: Principal Investigator
-  program: Assistant Professor
-  department: Department of Chemistry and Biochemistry at UCSD
+  program: Associate Professor 
+  department: Department of Experimental Therapeutics, MD Anderson
   funding:
-  email: mherzik(at)ucsd.edu
+  email: mherzik mdanderson dot org 
   image: /assets/img/members/herzik-mark.sq.jpg
-  hover_image: /assets/img/members/herzik-mark_h.sq.jpg
+  #hover_image: /assets/img/members/herzik-mark_h.sq.jpg
   orcid: https://orcid.org/0000-0001-6653-6682
   pubmed: https://www.ncbi.nlm.nih.gov/pubmed/?term=Herzik%20MA%5BAuthor%5D&cauthor=true&cauthor_uid=28991891
   twitter:
-  description: "Structural biologist perfecting his EM craft. Interested in the molecular underpinnings governing protein allostery and molecular transport."
+  #description: "Structural biologist perfecting his EM craft. Interested in the molecular underpinnings governing protein allostery and molecular transport."
 
 - name: Brian Cook, Ph.D.
-  position: Postdoctoral Scholar
+  position: Research Scientist
   program:
-  department: Department of Chemistry and Biochemistry at UCSD
+  department: Department of Experimental Therapeutics, MD Anderson
   funding:
-  email: bcook(at)ucsd.edu
+  email: 
   image: /assets/img/members/cook-brian.sq.jpg
-  hover_image: /assets/img/members/cook-brian_h.sq.jpg
+ # hover_image: /assets/img/members/cook-brian_h.sq.jpg
   orcid: https://orcid.org/0000-0002-5777-3464
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Cook+BD%5BAuthor%5D
-  twitter:
-  description:
-
-
-- name: Kelly McGuire, Ph.D.
-  position: Postdoctoral Scholar
-  program:
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: klmcguire(at)ucsd.edu
-  image: /assets/img/members/mcguire-kelly.sq.jpg
-  hover_image: /assets/img/members/mcguire-kelly_h.sq.png
-  orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=McGuire+KL%5BAuthor%5D
-  twitter:
-  description:
-
-
-# - name: Ray Berkeley, Ph.D.
-#   position: Staff Scientist
-#   program:
-#   department: Department of Chemistry and Biochemistry at UCSD
-#   funding:
-#   email: rberkele(at)ucsd.edu
-#   image: /assets/img/members/berkeley-ray.sq.png
-#   hover_image: /assets/img/members/berkeley-ray_h.sq.png
-#   orcid: https://orcid.org/0000-0002-3567-1547
-#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Berkeley+RF%5BAuthor%5D
-#   website: https://rayberkeley.com
-#   twitter: https://twitter.com/ray_berkeley
-#   description:
-
-
-- name: Max Bachochin
-  position: Graduate Student
-  program: Biochemistry and Molecular Biophysics
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: mbachoch(at)ucsd.edu
-  image: /assets/img/members/bachochin-max.sq.jpg
-  hover_image: /assets/img/members/bachochin-max_h.sq.png
-  orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Bachochin+MJ%5BAuthor%5D
-  twitter:
-  description:
-
-- name: Marc Morizono
-  position: Graduate Student
-  program: Biochemistry and Molecular Biophysics
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: mmorizon(at)ucsd.edu
-  image: /assets/img/members/morizono-marc.sq.jpg
-  hover_image: /assets/img/members/morizono-marc_h.sq.jpg
-  orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Morizono+M%5BAuthor%5D
-  twitter:
-  description:
-
-
-- name: Sarah Narehood
-  position: Graduate Student
-  program: Biochemistry and Molecular Biophysics
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: snarehood(at)ucsd.edu
-  image: /assets/img/members/narehood-sarah.sq.jpg
-  hover_image: /assets/img/members/narehood-sarah_h.sq.jpg
-  orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
   twitter:
   description:
 
@@ -102,7 +32,7 @@
   funding:
   email: senos(at)ucsd.edu
   image: /assets/img/members/enos-suzanne.sq.jpg
-  hover_image: /assets/img/members/enos-suzanne_h.sq.png
+ # hover_image: /assets/img/members/enos-suzanne_h.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=enos+SE%5BAuthor%5D
   twitter:
@@ -117,82 +47,17 @@
   funding:
   email: yil216(at)ucsd.edu
   image: /assets/img/members/li-yizhou-charles.sq.jpg
-  hover_image: /assets/img/members/li-yizhou-charles_h.sq.jpg
+ # hover_image: /assets/img/members/li-yizhou-charles_h.sq.jpg
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Li+Y%5BAuthor%5D
   twitter:
   description:
 
-# - name: Trevor Marshall
-#   position: Undergraduate Researcher
-#   program:
-#   department: Department of Chemistry and Biochemistry at UCSD
-#   funding:
-#   email: tsmarshall@ucsd.edu
-#   image: /assets/img/members/marshall-trevor.sq.png
-#   hover_image: /assets/img/members/marshall-trevor_h.sq.png
-#   orcid:
-#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Marshall+TS%5BAuthor%5D
-#   twitter:
-#   description:
-
-- name: Peter Dukakis
-  position: Undergraduate Researcher
-  program:
-  department: Department of Chemistry and Biochemistry at UCSD
-  funding:
-  email: pdukakis(at)ucsd.edu
-  image: /assets/img/members/dukakis-peter.sq.jpg
-  hover_image: /assets/img/members/dukakis-peter_h.sq.png
-  orcid:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Dukakis+P%5BAuthor%5D
-  twitter:
-  description:
-
-
-# - name: Tiffany Safar
-#   position: Undergraduate Researcher
-#   program:
-#   department: Department of Chemistry and Biochemistry at UCSD
-#   funding:
-#   email: tsafar(at)ucsd.edu
-#   image: /assets/img/members/safar-tiffany.sq.png
-#   hover_image: /assets/img/members/safar-tiffany_h.sq.png
-#   orcid:
-#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Safar+T%5BAuthor%5D
-#   twitter:
-#   description:
-
-- name: Julia Nguyen
-  position: Undergraduate Researcher
-  program: Biology with Specialization in Bioinformatics
-  department: Biology
-  funding:
-  email: jan018(at)ucsd.edu
-  image: /assets/img/members/nguyen-julia.sq.jpg
-  hover_image: /assets/img/members/nguyen-julia_h.sq.jpg
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Nguyen+J%5BAuthor%5D
-  twitter:
-  github:
-  description:
-
-- name: Trevor Redford
-  position: Undergraduate Researcher
-  program: Biology with Specialization in Bioinformatics
-  department: Biology
-  funding:
-  email: htredford(at)ucsd.edu
-  image: /assets/img/members/redford-trevor.sq.png
-  hover_image: /assets/img/members/redford-trevor_h.sq.png
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Redford+T%5BAuthor%5D
-  twitter:
-  github:
-  description:
 
 - name: Newton Herzik
   position: Lab Woofer
   program:
-  department: Department of Chemistry and Biochemistry at UCSD
+  department: Department of Experimental Therapeutics, MD Anderson
   funding:
   email:
   image: /assets/img/members/herzik-newton.sq.jpg
@@ -202,71 +67,4 @@
   twitter:
   description:
 
-- name: Daniel Ji
-  position: Undergraduate Researcher
-  program: Computer Science
-  department: Computer Science and Engineering
-  funding:
-  email: daji(at)ucsd.edu
-  image: /assets/img/members/ji-daniel.sq.jpg
-  hover_image: /assets/img/members/ji-daniel_h.sq.jpg
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ji+Daniel%5BAuthor%5D
-  twitter:
-  github: https://github.com/daniel-ji
-  description:
-
-# - name: Natalie Birouty
-#   position: Undergraduate Researcher
-#   program:
-#   department: Department of Chemistry and Biochemistry at UCSD
-#   funding:
-#   email: nbirouty(at)ucsd.edu
-#   image: /assets/img/members/birouty-natalie.sq.png
-#   hover_image: /assets/img/members/birouty-natalie_h.sq.png
-#   orcid:
-#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Birouty+N%5BAuthor%5D
-#   twitter:
-#   description:
-
-
-# - name: Armin Foroughi
-#   position: Data Scientist
-#   program:
-#   department: Department of Chemistry and Biochemistry at UCSD
-#   funding:
-#   email: arforoug(at)ucsd.edu
-#   image: /assets/img/members/foroughi-armin.sq.png
-#   hover_image:
-#   orcid:
-#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=foroughi+A%5BAuthor%5D
-#   twitter:
-#   website: https://arminforoughi.github.io
-#   description:
-
-
-
-# - name: Tiffany Ho
-#   position: Undergraduate Researcher
-#   program:
-#   department: Department of Chemistry and Biochemistry at UCSD
-#   funding:
-#   email: tgho@ucsd.edu
-#   image: /assets/img/members/ho-tiffany.sq.png
-#   hover_image: /assets/img/members/ho-tiffany_h.sq.png
-#   orcid:
-#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ho+TG%5BAuthor%5D
-#   twitter:
-#   description:
-
-# - name: Annapurna Saladi
-#   position: Undergraduate
-#   program: Bioinformatics
-#   department: Department of Chemistry and Biochemistry at UCSD
-#   funding:
-#   email: asaladi(at)ucsd.edu
-#   image: /assets/img/members/saladi-annapurna.sq.png
-#   orcid:
-#   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
-#   twitter:
-#   description:
 
