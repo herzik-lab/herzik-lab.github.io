@@ -1,6 +1,7 @@
 ---
-title: Members | Herzik Lab
+title: Alumni | Herzik Lab
 layout: default
+permalink: /alumni/
 ---
 
 <div class="falling-image-container"></div>
