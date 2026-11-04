@@ -11,7 +11,7 @@ permalink: /alumni/
     <div class="col-md-2">
     </div>
     <div class="col-md-8">
-      <h1 class="page-title">Herzik Alumni</h1>
+      <h1 class="page-title">Herzik Lab Alumni</h1>
     
   </div>
 </div>
