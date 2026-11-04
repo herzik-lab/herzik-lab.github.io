@@ -1,6 +1,6 @@
 
-name: Herzik Lab | UCSD
-description: "This is the official web page for the Mark Herzik Lab at UCSD."
+name: Herzik Lab | MD Anderson
+description: "This is the official web page for the Mark Herzik Lab at MD Anderson."
 
 markdown: kramdown
 plugins:
