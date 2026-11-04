@@ -1,4 +1,3 @@
-
 - name: Kelly McGuire, Ph.D.
   position: Postdoctoral Scholar
   current position: Postdoctoral Scholar, Gradinaru Lab at California Institute of Technology
@@ -7,7 +6,6 @@
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=McGuire+KL%5BAuthor%5D
   twitter:
   description:
-
 
 - name: Ray Berkeley, Ph.D.
   position: Staff Scientist
@@ -18,7 +16,6 @@
   website: https://rayberkeley.com
   twitter: https://twitter.com/ray_berkeley
   description:
-
 
 - name: Max Bachochin, Ph.D.
   position: Graduate Student
@@ -37,7 +34,6 @@
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Morizono+M%5BAuthor%5D
   twitter:
   description:
-
 
 - name: Sarah Narehood, Ph.D.
   position: Graduate Student
@@ -66,7 +62,6 @@
   twitter:
   description:
 
-
 - name: Tiffany Safar
   position: Undergraduate Researcher
   current position: Research Technician, Clemons lab at Caltech 
@@ -94,7 +89,6 @@
   github:
   description:
 
-
 - name: Daniel Ji
   position: Undergraduate Researcher
   current position: Graduate Student, University of Cambridge
@@ -104,17 +98,16 @@
   github: https://github.com/daniel-ji
   description:
 
- - name: Natalie Birouty
-   position: Undergraduate Researcher
-   current position: Medical Student
-   image: /assets/img/members/birouty-natalie.sq.png
-   orcid:
-   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Birouty+N%5BAuthor%5D
-   twitter:
-   description:
+- name: Natalie Birouty
+  position: Undergraduate Researcher
+  current position: Medical Student
+  image: /assets/img/members/birouty-natalie.sq.png
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Birouty+N%5BAuthor%5D
+  twitter:
+  description:
 
-
- - name: Armin Foroughi
+- name: Armin Foroughi
   position: Data Scientist
   current position: AI Engineer
   image: /assets/img/members/foroughi-armin.sq.png
@@ -125,23 +118,21 @@
   website: https://arminforoughi.github.io
   description:
 
+- name: Tiffany Ho
+  position: Undergraduate Researcher
+  current position: Graduate Student, UCLA
+  image: /assets/img/members/ho-tiffany.sq.png
+  hover_image: /assets/img/members/ho-tiffany_h.sq.png
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ho+TG%5BAuthor%5D
+  twitter:
+  description:
 
-
- - name: Tiffany Ho
-   position: Undergraduate Researcher
-   current position: Graduate Student, UCLA
-   image: /assets/img/members/ho-tiffany.sq.png
-   hover_image: /assets/img/members/ho-tiffany_h.sq.png
-   orcid:
-   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ho+TG%5BAuthor%5D
-   twitter:
-   description:
-
- - name: Annapurna Saladi
-   position: Undergraduate
-   current position: Software Engineer, Zoox
-   image: /assets/img/members/saladi-annapurna.sq.png
-   orcid:
-   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
-   twitter:
-   description:
+- name: Annapurna Saladi
+  position: Undergraduate
+  current position: Software Engineer, Zoox
+  image: /assets/img/members/saladi-annapurna.sq.png
+  orcid:
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
+  twitter:
+  description:
