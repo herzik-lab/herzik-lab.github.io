@@ -1,6 +1,6 @@
 - name: Kelly McGuire, Ph.D.
   position: Postdoctoral Scholar
-  current position: Postdoctoral Scholar, Gradinaru Lab at California Institute of Technology
+  current_position: Postdoctoral Scholar, Gradinaru Lab at California Institute of Technology
   image: /assets/img/members/mcguire-kelly.sq.jpg
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=McGuire+KL%5BAuthor%5D
@@ -9,7 +9,7 @@
 
 - name: Ray Berkeley, Ph.D.
   position: Staff Scientist
-  current position: Postdoctoral Associate, Cravatt Lab at Scripps Research
+  current_position: Postdoctoral Associate, Cravatt Lab at Scripps Research
   image: /assets/img/members/berkeley-ray.sq.png
   orcid: https://orcid.org/0000-0002-3567-1547
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Berkeley+RF%5BAuthor%5D
@@ -19,7 +19,7 @@
 
 - name: Max Bachochin, Ph.D.
   position: Graduate Student
-  current position: Postdoctoral Scientist, Eli Lilly 
+  current_position: Postdoctoral Scientist, Eli Lilly 
   image: /assets/img/members/bachochin-max.sq.jpg
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Bachochin+MJ%5BAuthor%5D
@@ -28,7 +28,7 @@
 
 - name: Marc Morizono, Ph.D.
   position: Graduate Student
-  current position: Postdoctoral Scholar, Grotjahn Lab at Scripps Research
+  current_position: Postdoctoral Scholar, Grotjahn Lab at Scripps Research
   image: /assets/img/members/morizono-marc.sq.jpg
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Morizono+M%5BAuthor%5D
@@ -37,7 +37,7 @@
 
 - name: Sarah Narehood, Ph.D.
   position: Graduate Student
-  current position: Vertex Research Fellow, Vertex Pharmaceuticals
+  current_position: Vertex Research Fellow, Vertex Pharmaceuticals
   image: /assets/img/members/narehood-sarah.sq.jpg
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
@@ -46,7 +46,7 @@
 
 - name: Trevor Marshall
   position: Undergraduate Researcher
-  current position: Opto-Mechanical Engineer, Quartus Engineering
+  current_position: Opto-Mechanical Engineer, Quartus Engineering
   image: /assets/img/members/marshall-trevor.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Marshall+TS%5BAuthor%5D
@@ -55,7 +55,7 @@
 
 - name: Peter Dukakis
   position: Undergraduate Researcher
-  current position: Interdisciplinary Biological Sciences PhD Student, Northwestern University
+  current_position: Interdisciplinary Biological Sciences PhD Student, Northwestern University
   image: /assets/img/members/dukakis-peter.sq.jpg
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Dukakis+P%5BAuthor%5D
@@ -64,7 +64,7 @@
 
 - name: Tiffany Safar
   position: Undergraduate Researcher
-  current position: Research Technician, Clemons lab at Caltech 
+  current_position: Research Technician, Clemons lab at Caltech 
   image: /assets/img/members/safar-tiffany.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Safar+T%5BAuthor%5D
@@ -73,7 +73,7 @@
 
 - name: Julia Nguyen
   position: Undergraduate Researcher
-  current position: M-TRAM Student, Cox Lab at Stanford University
+  current_position: M-TRAM Student, Cox Lab at Stanford University
   image: /assets/img/members/nguyen-julia.sq.jpg
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Nguyen+J%5BAuthor%5D
   twitter:
@@ -82,7 +82,7 @@
 
 - name: Trevor Redford
   position: Undergraduate Researcher
-  current position: Production Chemist, Abbott
+  current_position: Production Chemist, Abbott
   image: /assets/img/members/redford-trevor.sq.png
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Redford+T%5BAuthor%5D
   twitter:
@@ -91,7 +91,7 @@
 
 - name: Daniel Ji
   position: Undergraduate Researcher
-  current position: Graduate Student, University of Cambridge
+  current_position: Graduate Student, University of Cambridge
   image: /assets/img/members/ji-daniel.sq.jpg
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Ji+Daniel%5BAuthor%5D
   twitter:
@@ -100,7 +100,7 @@
 
 - name: Natalie Birouty
   position: Undergraduate Researcher
-  current position: Medical Student
+  current_position: Medical Student
   image: /assets/img/members/birouty-natalie.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Birouty+N%5BAuthor%5D
@@ -109,7 +109,7 @@
 
 - name: Armin Foroughi
   position: Data Scientist
-  current position: AI Engineer
+  current_position: AI Engineer
   image: /assets/img/members/foroughi-armin.sq.png
   hover_image:
   orcid:
@@ -120,7 +120,7 @@
 
 - name: Tiffany Ho
   position: Undergraduate Researcher
-  current position: Graduate Student, UCLA
+  current_position: Graduate Student, UCLA
   image: /assets/img/members/ho-tiffany.sq.png
   hover_image: /assets/img/members/ho-tiffany_h.sq.png
   orcid:
@@ -130,7 +130,7 @@
 
 - name: Annapurna Saladi
   position: Undergraduate
-  current position: Software Engineer, Zoox
+  current_position: Software Engineer, Zoox
   image: /assets/img/members/saladi-annapurna.sq.png
   orcid:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Narehood+S%5BAuthor%5D
