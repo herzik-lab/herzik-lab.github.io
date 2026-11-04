@@ -78,8 +78,8 @@ layout: default
     </div>
     <div class="col-md-8">
       <hr style="margin-bottom: 2em;">
-      <p style="font-size: 1.4em; font-weight: bold;">
-        <a href="{{ '/alumni/' | relative_url }}">Lab Alumni &rarr;</a>
+      <p style="font-size: 4em; font-weight: bold;">
+        <a href="{{ '/alumni/' | relative_url }}">Lab Alumni</a>
       </p>
     </div>
     <div class="col-md-2">
