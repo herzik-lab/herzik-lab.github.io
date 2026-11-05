@@ -15,7 +15,7 @@ layout: default
            4SCRB3.1042<br>
            The University of Texas MD Anderson Cancer Center<br>
            Houston, TX 77030<br>
-        <a href="mailto:MHerzik@mdanderson.org">mherzik <at> mdanderson dot org</a><br>
+        <a href="mailto:MHerzik@mdanderson.org">mherzik (at) mdanderson dot org</a><br>
        </p>
      </div>
    <div class="col-md-2">
