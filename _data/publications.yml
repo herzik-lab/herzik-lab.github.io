@@ -1,3 +1,22 @@
+- title: An allosteric network governs Tom70 conformational dynamics to coordinate mitochondrial import
+  journal:  Structure
+  date: 2026
+  authors: Bachochin MJ, McGuire KL, Cook BD, Ye Q, Silletti S, Corbett KD, Komives EA, Herzik MA Jr.
+  image: /assets/img/publications/tom70paper.jpg
+  pmid: "41386227"
+  pmid_link: https://pubmed.ncbi.nlm.nih.gov/41386227/
+  pmcid: PMC13075491
+  pmcid_link: https://pmc.ncbi.nlm.nih.gov/articles/PMC13075491/
+  biorxiv_preprint: 2025.07.19.665690 
+  biorxiv_link: https://www.biorxiv.org/content/10.1101/2025.07.19.665690v1
+  pdb1: 9PKQ
+  raw_data: none
+  lab: Herzik Lab
+  lab_link: https://herziklab.com/
+  second_lab: 
+  second_lab_link: 
+  abstract: Tom70 mediates mitochondrial protein import by coordinating transfer of cytosolic preproteins from Hsp70/Hsp90 to the translocase of the outer membrane (TOM) complex. In humans, the cytosolic domain of Tom70 (HsTom70c) is entirely α-helical and comprises modular TPR motifs divided into an N-terminal chaperone-binding and a C-terminal preprotein-binding domain. However, the mechanisms linking these functional regions remain poorly understood. Here, we present the 2.04 Å crystal structure of unliganded HsTom70c, revealing two distinct conformations—open and closed—within the asymmetric unit. These states are stabilized by interdomain crystal contacts and supported in solution by hydrogen-deuterium exchange mass spectrometry (HDX-MS) and molecular dynamics (MD) simulations. Principal component and network analyses reveal a continuum of motion linking the NTD and CTD via key residues in helices α7, α8, and α25. Engagement of the CTD by viral protein Orf9b disrupts this network, stabilizing a partially closed intermediate and dampening distal NTD dynamics.
+  
 - title: Preparation of oxygen-sensitive proteins for high-resolution cryoEM structure determination using blot-free vitrification
   journal: Nature Communications
   date: 2025
