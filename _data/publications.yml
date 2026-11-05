@@ -1,3 +1,122 @@
+- title: A surfactant cocktail overcomes air–water interface artifacts in single-particle cryoEM
+  journal: Nature Communications
+  date: 2026
+  authors: Enos, SE*, Cook BD*, Rahmani H, Narehood SM, Li Y, Kuschnerus, IC, Redford HT, Dukakis P, Ji D, Bachochin MJ, Tezcan FA, Grotjahn DA, Herzik MA Jr.
+  equal_contribution: "*These authors contributed equally"
+  image: /assets/img/publications/Fig2_50per.png
+  pmid: 
+  pmid_link: 
+  pmcid: 
+  pmcid_link: 
+  biorxiv_preprint: 2026.03.17.712260 
+  biorxiv_link: https://www.biorxiv.org/content/10.64898/2026.03.17.712260v1
+  pdb1: 11MS
+  pdb2: 11MT
+  pdb3: 11MU
+  pdb4: 11MV
+  pdb5: 37QG
+  pdb6: 37QM
+  pdb7: 37QN
+  pdb8: 37QO
+  pdb9: 37QQ
+  pdb10: 37QR
+  pdb11: 37QS
+  pdb12: 37QT
+  pdb13: 11MX
+  pdb14: 11MZ
+  pdb15: 11NA
+  pdb16: 11NB
+  pdb17: 11NC
+  pdb18: 11ND
+  pdb19: 11NE
+  pdb20: 11NF
+  pdb21: 11NH
+  pdb22: 11NI
+  pdb23: 11NJ
+  pdb24: 11NK
+  pdb25: 11NL
+  pdb26: 11NM
+  pdb27: 11NN
+  pdb28: 11NO
+  pdb29: 11NP
+  pdb30: 11NR
+  pdb31: 11NT
+  pdb32: 11NU
+  pdb33: 11NW
+  pdb34: 11NX
+  pdb35: 11OB
+  pdb36: 11OC
+  pdb37: 37QU
+  pdb38: 37QV
+  pdb39: 37QW
+  pdb40: 37QY
+  pdb41: 37QZ
+  pdb42: 37RA
+  pdb43: 37RB
+  pdb44: 37RC
+  emdb1: EMD-75842
+  emdb2: EMD-75843
+  emdb3: EMD-75844
+  emdb4: EMD-75845
+  emdb5: EMD-75846
+  emdb6: EMD-75847
+  emdb7: EMD-78410
+  emdb8: EMD-78413
+  emdb9: EMD-78414
+  emdb10: EMD-78415
+  emdb11: EMD-78416
+  emdb12: EMD-78417
+  emdb13: EMD-78418
+  emdb14: EMD-78419
+  emdb15: EMD-75848
+  emdb16: EMD-75849
+  emdb17: EMD-75851
+  emdb18: EMD-75853
+  emdb19: EMD-75854
+  emdb20: EMD-75855
+  emdb21: EMD-75856
+  emdb22: EMD-75857
+  emdb23: EMD-75858
+  emdb24: EMD-75859
+  emdb25: EMD-75860
+  emdb26: EMD-75861
+  emdb27: EMD-75862
+  emdb28: EMD-75863
+  emdb29: EMD-75864
+  emdb30: EMD-75865
+  emdb31: EMD-75866
+  emdb32: EMD-75867
+  emdb33: EMD-75868
+  emdb34: EMD-75869
+  emdb35: EMD-75870
+  emdb36: EMD-75871
+  emdb37: EMD-75873
+  emdb38: EMD-75874
+  emdb39: EMD-75878
+  emdb40: EMD-75879
+  emdb41: EMD-78420
+  emdb42: EMD-78421
+  emdb43: EMD-78422
+  emdb44: EMD-78423
+  emdb45: EMD-78424
+  emdb46: EMD-78425
+  emdb47: EMD-78426
+  emdb48: EMD-78427
+  emdb49: EMD-75901
+  emdb50: EMD-75902
+  emdb51: EMD-75903
+  emdb52: EMD-75904
+  emdb53: EMD-75905
+  emdb54: EMD-75906
+  emdb55: EMD-75907
+  emdb56: EMD-75908
+  raw_data: none
+  lab: Herzik Lab
+  lab_link: https://herziklab.com/
+  second_lab: 
+  second_lab_link: 
+  abstract: Single-particle cryogenic electron microscopy (cryoEM) is widely used for structure determination of biomacromolecules. Random distributions of these molecules in vitrified ice are necessary to generate a three-dimensional (3-D) reconstruction. However, interactions between the sample and the air-water interface (AWI) that occur during vitrification often bias the views of the sample, termed preferred orientation. Surfactants are used as additives to prevent AWI-induced deterioration, but no general strategy exists for surfactant choice. To circumvent these issues, we developed SurfACT, a cocktail of diverse surfactants that limits AWI-dependent sample denaturation and orientation bias. Here we demonstrate SurfACT’s effectiveness with four proteins plagued by AWI-induced issues. All four samples improved viewing distribution and map completeness when SurfACT is applied. Cryogenic electron tomography demonstrates that SurfACT redistributes particles from the AWI into the bulk ice, driving signal recovery and inhibiting denaturation. This sample additive minimizes sample-specific screening and expands the range of samples for cryoEM.
+
 - title: Structural and Functional Characterization of Heterologous Nitrogenase Complexes 
   journal: Biochemistry
   date: 2026
