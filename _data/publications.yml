@@ -82,7 +82,8 @@
 - title: Structural basis for the conformational protection of nitrogenase from O₂
   journal: Nature
   date: 2025
-  authors: Narehood SM, Cook BD, Srisantitham S, Eng VH, Shiau AA, McGuire KL, Britt RD, Herzik MA Jr, Tezcan FA
+  authors: Narehood SM, Cook BD, Srisantitham S, Eng VH, Shiau AA, McGuire KL, Britt RD, Herzik MA Jr*, Tezcan FA*
+  equal_contribution: "*Corresponding authors"
   image: /assets/img/publications/nitrogenase_fesii.png
   pmid: "39779844"
   pmid_link: https://pubmed.ncbi.nlm.nih.gov/39779844/
