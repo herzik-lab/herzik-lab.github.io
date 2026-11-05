@@ -1,3 +1,29 @@
+- title: Structural and Functional Characterization of Heterologous Nitrogenase Complexes 
+  journal: Biochemistry
+  date: 2026
+  authors: Li Y, Narehood SM, Cook BD, McGuire KL, Tezcan FA, Herzik MA Jr., Tezcan FA
+  image: /assets/img/publications/o2sensitive_cryoem.png
+  pmid: "42390130"
+  pmid_link: https://pubmed.ncbi.nlm.nih.gov/42390130/
+  pmcid:
+  pmcid_link: 
+  biorxiv_preprint: 
+  biorxiv_link: 
+  pdb1: 10ZK
+  pdb2: 10ZL
+  pdb3: 10ZM
+  pdb4: 10ZN
+  emdb1: EMD-75566
+  emdb2: EMD-75567
+  emdb3: EMD-75568
+  emdb4: EMD-75569
+  raw_data: none
+  lab: Herzik Lab
+  lab_link: https://herziklab.com/
+  second_lab: Tezcan Lab
+  second_lab_link: http://tezcan.ucsd.edu/
+  abstract: Nitrogenase is the only known enzyme that catalyzes the reduction of dinitrogen to ammonia. The most prevalent isozyme, molybdenum nitrogenase, comprises the catalytic molybdenum–iron protein (MoFeP) and the ATP-dependent reductase iron protein (FeP). Although Mo-nitrogenases are widespread across bacteria and archaea and appear to share conserved mechanistic and structural features, FeP and MoFeP show considerable sequence variability across diazotrophs. This raises questions about the conservation of chemomechanical mechanisms coupling FeP-dependent ATP hydrolysis and electron transfer to MoFeP, and about the functional compatibility of nitrogenase components from divergent species. Previous studies showed that some heterologous FeP−MoFeP pairs can functionally complement each other, whereas other pairs lack catalytic activity, but the absence of structural information on such heterologous pairs has limited mechanistic understanding. To this end, we investigated the functional and structural compatibility of FeP and MoFeP from Azotobacter vinelandii (Av) and Gluconacetobacter diazotrophicus (Gd), two phylogenetically and ecologically distinct species. Building on our prior work with Gd-nitrogenase and recently developed cryogenic electron microscopy (cryoEM) protocols, we determined the ADP·BeFx-trapped structure of the homologous GdFeP–GdMoFeP complex and showed that it adopted the same geometry as its Av counterpart. Activity measurements showed that heterologous Gd/Av combinations retained 60–80% of homologous catalytic activities despite 30–50% sequence divergence in FeP and MoFeP. High-resolution cryoEM structures of GdFeP–AvMoFeP and AvFeP–GdMoFeP corroborated these activities and revealed that functional complementation tolerates substantial sequence variation when the core structural elements supporting ATP binding/hydrolysis, protein–protein interaction, electron transfer, and substrate reduction are conserved.
+  
 - title: An allosteric network governs Tom70 conformational dynamics to coordinate mitochondrial import
   journal:  Structure
   date: 2026
