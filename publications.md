@@ -75,13 +75,15 @@ layout: default
         <div class="col-md-4">
             <p><strong>Additional Links</strong></p>
                 <ul style="color: gray">
-                    {% if publication.pdb %}
-                        {% if publication.pdb != "none" %}
-                        <li>PDB: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb}}">{{publication.pdb}}</a></li>
-                        {% endif %}
-                    {% else %}
-                        <li>PDBs: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb1}}">{{publication.pdb1}}</a> <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb2}}">{{publication.pdb2}}</a> <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb3}}">{{publication.pdb3}}</a> <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb4}}">{{publication.pdb4}}</a> <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb5}}">{{publication.pdb5}}</a> <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{publication.pdb6}}">{{publication.pdb6}}</a></li>
-                    {% endif %}
+                    {% if publication.pdbs and publication.pdbs.size > 0 %}
+                        <li>PDBs: 
+                            {% for pdb in publication.pdbs %}
+                                <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{ pdb }}">{{ pdb }}</a>{% unless forloop.last %}, {% endunless %}
+                            {% endfor %}
+                        </li>
+                        {% elsif publication.pdb and publication.pdb != "none" %}
+                            <li>PDB: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{ publication.pdb }}">{{ publication.pdb }}</a></li>
+                            {% endif %}
                     {% if publication.emd %}
                         {% if publication.emd != "none" %}
                         <li>EMDB: <a href="http://www.ebi.ac.uk/pdbe/entry/emdb/{{publication.emdb}}">{{publication.emdb}}</a></li>
